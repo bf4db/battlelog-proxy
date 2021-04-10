@@ -1,0 +1,10 @@
+{
+    "host": "localhost",
+    "port": 3000,
+    "ratelimit": 200,
+    "rate_window": 60000,
+    "battlelog_url": "https://battlelog.battlefield.com",
+    "keeper_url": "https://keeper.battlelog.com",
+    "hard_limit": false,
+    "log_requests": true
+}
